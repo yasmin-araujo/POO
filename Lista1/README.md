@@ -1,19 +1,21 @@
 # List 1
 
-## Java Language Exercises
+## Classes, Objects and Arrays Exercises
 
-1. Square root
+1. Password game
 
-2. Asterisk tree
+2. LegalPerson and NaturalPerson classes
 
-3. Reverse asterisk tree
+3. Agenda
 
-4. Check prime number
+4. CurrentAccount class
 
-5. Find prime number
+5. Restaurant management classes
 
-6. Larger and smaller numbers
+6. String formater
 
-7. Find roots of the equation with bisection method
+7. Find larger value index
 
-8. Find roots of the equation with Newton-Raphson method
+8. Auto fill of array
+
+9. Update matrix values
