@@ -4,7 +4,7 @@
 
 1. [Random Class](https://github.com/yasmin-araujo/POO/blob/master/Exercicio2/Aula05/src/Exercicio1.java)
 
-2. [MegaSena Class](https://github.com/yasmin-araujo/POO/blob/master/Exercicio2/Aula05/src/Pessoa.java)
+2. [Lottery Class](https://github.com/yasmin-araujo/POO/blob/master/Exercicio2/Aula05/src/Pessoa.java)
 
 3. [Agenda Class](https://github.com/yasmin-araujo/POO/blob/master/Exercicio2/Aula05/src/Agenda.java)
 
