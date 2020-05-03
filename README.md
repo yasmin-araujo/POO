@@ -9,6 +9,8 @@ Projects for Object-Oriented Programming, 2020, ICMC-USP, São Carlos, Brazil
 
 - List 2: [Java Language](https://github.com/yasmin-araujo/POO/tree/master/Lista2)
 
+- List 3: [Inheritance and Polymorphism](https://github.com/yasmin-araujo/POO/tree/master/Lista3)
+
 ### Assignments
 - Exercise 1: [Classes and Objects](https://github.com/yasmin-araujo/POO/tree/master/Exercicio1)
 
