@@ -20,6 +20,11 @@ public class Dado
         return lado;
     }
 
+    public void setLado(int lado)
+    {
+        this.lado = lado;
+    }
+
     public int rolar()
     {
         // Gera um número aleatório [1,n]

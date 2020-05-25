@@ -5,6 +5,15 @@ public class RolaDados
     private int num_dados;  // Número de dados
     private Dado[] dados;   // Array dos dados
 
+    public void setDados(int[] lados)
+    {
+        dados[0].setLado(lados[0]);
+        dados[1].setLado(lados[1]);
+        dados[2].setLado(lados[2]);
+        dados[3].setLado(lados[3]);
+        dados[4].setLado(lados[4]);
+    }
+
     public RolaDados(int n) // n = número de dados
     {
         // Inicializa array de tamanho n
