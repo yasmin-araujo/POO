@@ -14,6 +14,20 @@ public class DadoTest
     }
 
     @Test
+    public void testSetDadoN()
+    {
+        d = new Dado(7);
+        int k;
+        boolean res = true;
+        for(int i = 0; i < 10; i++)
+        {
+            k = d.rolar();
+            res = res && !(k < 1 || k > 7);
+        }
+        assertTrue(res);
+    }
+
+    @Test
     public void getLado()
     {
         assertEquals(0, d.getLado());
@@ -22,8 +36,13 @@ public class DadoTest
     @Test
     public void rolar()
     {
-        int k = d.rolar();
-        boolean res = !(k < 1 || k > 6);
+        int k;
+        boolean res = true;
+        for(int i = 0; i < 10; i++)
+        {
+            k = d.rolar();
+            res = res && !(k < 1 || k > 6);
+        }
         assertTrue(res);
     }
 
@@ -96,6 +115,14 @@ public class DadoTest
                 "|  O   O  |\n" +
                 "+---------+";
         d.setLado(6);
+        assertEquals(res, d.toString());
+    }
+
+    @Test
+    public void testToStringDefault()
+    {
+        String res = "Lado inválido: 7";
+        d.setLado(7);
         assertEquals(res, d.toString());
     }
 }

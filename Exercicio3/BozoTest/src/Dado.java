@@ -74,7 +74,7 @@ public class Dado
                         "|  O   O  |\n" +
                         "+---------+";
             default:
-                return "Lado inválido" + lado;
+                return "Lado inválido: " + lado;
         }
     }
 
