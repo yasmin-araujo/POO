@@ -4,6 +4,8 @@ Projects for Object-Oriented Programming, 2020, ICMC-USP, São Carlos, Brazil
 ### Projects
 - Project 1: [Bozo Game](https://github.com/yasmin-araujo/POO/tree/master/Projeto1)
 
+- Final Project: [Retirement Calculator](https://github.com/yasmin-araujo/CalculadoraAposentadoria)
+
 ### Exercise Lists
 - List 1: [Classes, Objects and Arrays](https://github.com/yasmin-araujo/POO/tree/master/Lista1)
 
